@@ -1,4 +1,4 @@
-# chromeos-fancy-dvorak
+# chromeos-fancy-dvp-dvorak
 Custom Dvorak solution for ChromeOS (developed for Pixelbook). This layout is Programers Dvorak, but with QWERTY ctrl shortcuts.
 
 ## Installation
